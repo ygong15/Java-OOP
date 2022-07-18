@@ -1,0 +1,85 @@
+Yuchen Gong
+yuchengo@usc.edu
+ITP 265
+
+FINAL PROJECT WORKING LOG
+----------------------------------------------------------------------------------------------
+Apr. 28th, 2022:
+Work from 10am to 11:21am 
+1h21m
+
+Progress:
+	1. updated the uml diagram from peer review
+	2. program out the service hierarchy
+	3. put two functions into the two enum classes -> to convert a string to a enum type
+----------------------------------------------------------------------------------------------
+Apr. 30th, 2022:
+Work from 10:10am to 11:24am
+1h14m
+
+Progress:
+	1. program out the second user hierarchy
+	2. update UML diagram
+	3. Design how user interface will look like
+----------------------------------------------------------------------------------------------
+May. 1st, 2022:
+Work from 6pm to 9:37pm
+3h37m
+
+Progress:
+	1. create a fake service TSV file
+	2. put in toString() for all service classes
+	3. program service's filer reader (with two private static helper method)
+	4. debug the file reader (fix a scanner error & a format error of the tsv file)
+	5. !!!design change password function for users!!!
+----------------------------------------------------------------------------------------------
+May. 2nd, 2022:
+Work from 8:12pm to 9:12pm
+1h
+
+Progress:
+	1. create a fake user tsv file
+	2. put in toString() for customer, employee, and user
+	3. program user's file reader (with one private static helper method)
+	4. update user subclasses (adding in discount for employee and executive)
+----------------------------------------------------------------------------------------------
+May. 3rd, 2022:
+Work from 2:06pm to 4:04pm
+2h
+
+Progress:
+	1. create a user interface class
+	2. create a UIConsole class (helper)
+	3. finish login/signup function of the program
+----------------------------------------------------------------------------------------------
+May. 4th, 2022:
+Work from 3:30pm to 8pm
+4h30m
+
+Progress:
+	1. finishing shopping functions for all services
+	2. finish view cart 
+	3. finish checkout
+	!!!plan to add in change password / change email function for all users!!!
+----------------------------------------------------------------------------------------------
+May. 5th, 2022:
+Work from 11:12am to 1:20pm
+2h8m
+
+Progress:
+	1. added in add service and set price methods for employees and executives
+	2. added in change password method for all users
+	3. refine printing formats
+	4. putting comments in 
+----------------------------------------------------------------------------------------------
+May. 5th, 2022:
+Work from 4:45pm to 6pm
+1h15m
+
+Progress:
+	1. finish all comments in the program
+	2. update UML diagram
+	3. conducted multiple test runs to make sure the program is robust
+	4. start writing reflection
+--------------------------------------CODING PART ENDS-----------------------------------------
+---------------------------------TOTAL CODING TIME: 17.5 HOURS---------------------------------

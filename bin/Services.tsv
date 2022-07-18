@@ -1,0 +1,50 @@
+Type	Start Time	End Time (duration for hotel)	Price	Destination	Departure	First Class #	Business Class #	Economy Class #	Provider	Code
+Flight	5/22/2022 12:00PM	5/22/2022 2:00PM	100	San Francisco	Los Angeles	10	15	70	United Airline	UA335
+Flight	5/26/2022 9:00AM	5/26/2022 11:00AM	150	San Francisco	Los Angeles	15	25	90	Delta Airline	DA770
+Flight	5/29/2022 11:00AM	5/29/2022 1:00PM	110	San Francisco	Los Angeles	10	15	70	United Airline	UA442
+Flight	6/1/2022 10:00AM	6/1/2022 12:00PM	100	San Francisco	Los Angeles	10	10	85	Delta Airline	DA445
+Flight	6/7/2022 3:00PM	6/7/2022 5:00PM	150	San Francisco	Los Angeles	10	15	70	American Airline	AA330
+Flight	5/29/2022 9:00AM	5/29/2022 11:00PM	1300	Los Angeles	Beijing	30	50	500	Hainan Airline	HU481
+Flight	6/29/2022 9:00AM	6/29/2022 11:00PM	2000	Los Angeles	Beijing	30	50	500	China Airline	CA984
+Flight	7/29/2022 9:00AM	7/29/2022 11:00PM	1700	Los Angeles	Beijing	30	50	500	China Southern Airline	SA711
+Flight	5/30/2022 12:00PM	5/30/2022 6:00PM	400	New York	Los Angeles	15	40	300	United Airline	UA456
+Flight	6/30/2022 11:00PM	6/30/2022 5:00PM	450	New York	Los Angeles	20	50	300	Delta Airline	DA967
+Flight	5/28/2022 3:00PM	5/28/2022 9:00PM	500	New York	Los Angeles	15	30	400	American Airline	AA678
+Flight	6/2/2022 4:00AM	6/2/2022 10:00AM	475	New York	Los Angeles	10	30	250	United Airline	AA178
+Flight	6/10/2022 6:00AM	6/10/2022 12:00PM	500	New York	Los Angeles	14	30	330	Delta Airline	DA189
+Flight	6/12/2022 8:00AM	6/12/2022 2:00PM	500	New York	Los Angeles	12	35	400	JetBlue Airline	JA339
+Cruise	5/31/2022 8:00PM	7/12/2022 10:00AM	700	Los Angeles	Tokyo	100	500	500	Carnival Corporation	CC101
+Cruise	5/20/2022 10:00AM	5/23/2022 1:00PM	400	Chicago	New York	50	100	250	Carnival Corporation	CC510
+Cruise	5/31/2022 2:00PM	6/2/2022 1:00PM	520	Tokyo	Shanghai	100	250	500	Carnival Corporation	CC302
+Cruise	5/20/2022 6:00AM	5/25/2022 8:00PM	450	Seatle	Alaska	150	150	500	Carnival Corporation	CC570
+Cruise	6/1/2022 11:00AM	6/2/2022 9:00PM	230	Miami	Boston	50	100	200	Carnival Corporation	CC741
+Cruise	6/2/2022 11:00AM	6/5/2022 10:00AM	430	Boston	London	100	200	300	Carnival Corporation	CC298
+Cruise	6/7/2022 9:00AM	6/12/2022 2:00PM	400	Moscow	Beijing	100	100	500	Carnival Corporation	CC433
+Train	5/19/2022 11:00AM	5/19/2022 3:00PM	80	San Diego	Los Angeles	40	60	500	Pacific One	PO455
+Train	5/27/2022 8:00AM	5/27/2022 12:00PM	85	San Diego	Los Angeles	45	65	450	United Rail	UR344
+Train	5/31/2022 10:00AM	5/31/2022 2:00PM	90	San Francisco	Los Angeles	45	60	300	Pacific One	PO330
+Train	6/1/2022 3:00PM	6/1/2022 7:00PM	105	Boston	New York	55	70	200	United Rail	UR999
+Train	6/7/2022 9:00AM	6/7/2022 3:00PM	95	Providence	New York	55	70	200	Eastern Rail	ER456
+Train	6/8/2022 10:00AM	6/8/2022 12:00PM	35	Providence	Boston	10	20	500	Eastern Rail	ER567
+Train	6/12/2022 12:00PM	6/12/2022 2:00PM	35	Saxtons River	Boston	10	20	500	United Rail	UR677
+Train	6/24/2022 9:00AM	6/24/2022 3:00PM	75	Dallas	York	10	20	500	Eastern Rail	ER768
+Train	6/26/2022 10:00AM	6/26/2022 12:00PM	40	Tample	Los Angeles	10	20	450	Pacific One	PO231
+Train	7/11/2022 11:00AM	7/11/2022 2:00PM	56	Rosemed	San Diego	15	30	450	Pacific One	PO334
+Train	7/14/2022 9:00AM	7/14/2022 1:00PM	65	Los Angeles	San Diego	20	30	500	Pacific One	PO899
+Hotel	5/31/2022	1	110	New York	New York	none	none	none	Park 35	none
+Hotel	5/31/2022	1	150	New York	New York	none	none	none	The Fifth	none
+Hotel	5/31/2022	1	200	New York	New York	none	none	none	The Opposite House	none
+Hotel	5/31/2022	1	170	New York	New York	none	none	none	Silver Stone	none
+Hotel	5/31/2022	1	90	New York	New York	none	none	none	Ralphs	none
+Hotel	5/31/2022	1	199	New York	New York	none	none	none	Four Seasons	none
+Hotel	5/31/2022	1	135	San Diego	San Diego	none	none	none	Marriot International	none
+Hotel	5/31/2022	1	180	San Diego	San Diego	none	none	none	IHG	none
+Hotel	5/31/2022	1	145	San Diego	San Diego	none	none	none	Hyatt	none
+Hotel	5/31/2022	1	55	San Diego	San Diego	none	none	none	Super 88	none
+Hotel	5/31/2022	1	135	San Diego	San Diego	none	none	none	Hilton	none
+Hotel	5/31/2022	1	145	Los Angeles	Los Angeles	none	none	none	King's House	none
+Hotel	5/31/2022	1	200	Los Angeles	Los Angeles	none	none	none	IHG	none
+Hotel	5/31/2022	1	155	Los Angeles	Los Angeles	none	none	none	Hyatt	none
+Hotel	5/31/2022	1	200	Los Angeles	Los Angeles	none	none	none	Four Seasons	none
+Hotel	5/31/2022	1	150	Los Angeles	Los Angeles	none	none	none	Hilton	none
+Hotel	5/31/2022	1	200	Los Angeles	Los Angeles	none	none	none	USC hotel	none
